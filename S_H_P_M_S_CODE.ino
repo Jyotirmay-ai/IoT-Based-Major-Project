@@ -221,7 +221,7 @@ void handleRoot() {
 <head>
     <title>S.H.P.M</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVXY2wFrLTinK1AJQIZnpzhvHe-XFbc0U"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key= <Google Api Key> "></script>
     <script src='https://cdn.jsdelivr.net/npm/chart.js'></script>
 
     <script>
